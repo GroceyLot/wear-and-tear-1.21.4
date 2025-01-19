@@ -3,11 +3,14 @@
 	"id": "wear-and-tear",
 	"version": "${version}",
 	"name": "Wear and Tear",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Turn grass into path by simply walking!",
 	"authors": [
 		"GroceyLot"
 	],
 	"contact": {
+		"sources": "https://github.com/GroceyLot/wear-and-tear-1.21.4",
+		"issues": "https://github.com/GroceyLot/wear-and-tear-1.21.4/issues",
+		"homepage": "https://modrinth.com/mod/wear-and-tear"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/wear-and-tear/icon.png",

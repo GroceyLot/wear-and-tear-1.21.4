@@ -1,3 +1,3 @@
 # Wear and Tear
 
-https://modrinth.com/mod/coming-soon
+https://modrinth.com/mod/wear-and-tear
