@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.weartear.mixin",
+	"mixins": [
+		"PathCreatorMixin"
+	],
+	"client": [],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
